@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          default-label: config-server2
+          default-label: eureka
           uri: https://github.com/ingrid-inga/Microservices
           search-paths: config-data
   application:
